@@ -10,11 +10,12 @@ This is an application that enables users to get in the know on what's around th
 
 ## Setup and Installation Requirements
 ``` bash
+# Open folder in order to host your script shell
+$ 
 # clone into repository
-$ git clone
+$ git clone 
 
 # run the application 
-$ python3.6 manage.py runserver
 ```
 
 ## Known bugs
