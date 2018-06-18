@@ -12,23 +12,20 @@ This is an application that enables users to get in the know on what's around th
 ``` bash
 # Open folder in order to host your script shell
 $ 
-# clone into repository
-$ git clone 
+# clone into repository 
+$ git clone https://github.com/wesleymutwiri/django-script-shell.git
+# enter folder containing script shell 
+$ cd django-script-shell/
 
 # run the application 
+$ Source newDjango.sh <name of django project> <name of django app>
 ```
 
 ## Known bugs
 There are currently no known bugs experienced on the website but feedback on bugs experienced during use of the website will be highly appreciated. The only reason that the website may fail to load is if the Internet connection is slow or disconnected which will require you to troubleshoot your Internet connection. Thankyou in advance for your support.
 
 ## Technologies used
-* HTML5
-* CSS
-* Bootstrap4
 * Python3.6
-* django
-* Heroku
-* Git
 
 ## Support and contact details
 Contact me on my github account
