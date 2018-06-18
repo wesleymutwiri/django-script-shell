@@ -9,8 +9,13 @@ coming soon
 This is an application that enables users to get in the know on what's around their neighbourhood. The user can also advertise their work on the website such as businesses and also get information concerning police officers and ambulances in the area via the application. The users can also create their own neighbourhoods where they will become administrators of the neighbourhood . The users can also post stories on the website including images .
 
 ## Setup and Installation Requirements
+``` bash
+# clone into repository
+$ git clone
 
-
+# run the application 
+$ python3.6 manage.py runserver
+```
 
 ## Known bugs
 There are currently no known bugs experienced on the website but feedback on bugs experienced during use of the website will be highly appreciated. The only reason that the website may fail to load is if the Internet connection is slow or disconnected which will require you to troubleshoot your Internet connection. Thankyou in advance for your support.
